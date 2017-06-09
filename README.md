@@ -1,5 +1,5 @@
 
-LESSON 2 TASK 2 - CYCLING ROTATION
+LESSON 2 TASK 2 - CYCLIC ROTATION
 -----------------------------------------------------------------------------------------------
 
 100% ON CODILITY
