@@ -2,7 +2,7 @@
 LESSON 2 TASK 2 - CYCLING ROTATION
 -----------------------------------------------------------------------------------------------
 
-THIS CODE GIVE 100% ON CODILITY
+100% ON CODILITY
 -----------------------------------------------------------------------------------------------
 A zero-indexed array A consisting of N integers is given. Rotation of the array means that each element is shifted right by one index, and the last element of the array is also moved to the first place.
 
